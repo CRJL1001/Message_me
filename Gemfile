@@ -19,6 +19,10 @@ gem "jbuilder"
 #json
 gem "json", "< 3.0"
 
+#styling
+gem "semantic-ui-sass"
+gem "jquery-rails"
+
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
 # gem "bcrypt", "~> 3.1.7"
 
