@@ -7,7 +7,7 @@ if ["$#" -eq 0]; then
 	exit 1
 fi
 
-MESSAGE="$*"
+MESSAGE="$1"
 
 echo "Ajout des fichiers...."
 git add .
@@ -20,3 +20,4 @@ git push
 
 echo "Commit / Push OK"
 
+#test
