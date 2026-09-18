@@ -1,10 +1,9 @@
 <div class="ui inverted grey menu">
     <div class="ui container">
-        <a class="item">Accueil</a>
+        <%= link_to "Accueil", root_path, class: "item" %>
         <a class="item">Messages</a>
         <div class="right menu">
-            <a class="item">Sign Up</a>
-            <a class="item">Log In</a>
+            <%= link_to "Log in", login_path, class: "item" %>
         </div>
     </div>
   
