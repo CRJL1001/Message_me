@@ -1,1 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200"><rect width="200" height="200" fill="url('#gradient')"></rect><defs><linearGradient id="gradient" gradientTransform="rotate(45 0.5 0.5)"><stop offset="0%" stop-color="#dee90b"></stop><stop offset="100%" stop-color="#d9e241"></stop></linearGradient></defs><g><g fill="#1b3855" transform="matrix(18.69371196754564,0,0,18.69371196754564,-0.47968049731264273,211.32308466681118)" stroke="#0e5278" stroke-width="0.2"><path d="M1.08-4.13L6.40-5.98L1.08-7.78L1.08-10.77L9.67-7.26L9.67-4.66L1.08-1.14L1.08-4.13Z"></path></g></g></svg>
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="256" cy="256" r="256" fill="red"/>
+</svg>
